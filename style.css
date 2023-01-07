@@ -1,0 +1,14 @@
+body{
+    background-color: cadetblue;
+}
+#score{
+   font-size: 25px;
+   float:left; 
+}
+#time{
+   font-size: 25px; 
+   float:right;
+}
+#sketch_tbd{
+    color: blue;
+}
